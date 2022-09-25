@@ -1,0 +1,77 @@
+
+*{
+  background-color: #70A897;
+  font-family: 'Roboto', sans-serif;
+}
+
+.addDetails{
+border-bottom: solid 2px black;
+padding-top: 1rem;
+padding-bottom: 1rem;
+
+ 
+}
+.topName{
+     display: flex;
+    justify-content: center;
+    height: 40px;
+    padding: 4px;
+  
+}
+
+.title{
+  margin-top:2rem;
+text-align: center;
+border-bottom: solid 2px black;
+
+}
+
+.upDate{
+  margin-top: 3rem;
+  padding-top: 3rem;
+  border-top: solid 2px black;
+  display: flex;
+  justify-content: space-around;}
+
+
+
+
+
+.divNames, .newDiv {
+margin:5px;
+height: 8rem;
+width: 8rem;
+border-radius:55%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.outDiv{
+margin-top: 2rem;
+display: flex;
+
+
+
+
+}
+
+.parNames{
+  font-weight: bolder;
+}
+
+.footer{
+margin:20px;
+text-align: center;
+}
+
+.displayButton{
+border-top: solid 2px black;
+display: flex;
+justify-content: center;
+margin-top: 2rem;
+padding-top: 2rem;
+
+}
+
+
